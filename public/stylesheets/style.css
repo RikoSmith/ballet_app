@@ -1,0 +1,12 @@
+.headerTop{
+	text-align: center; 
+	margin:30px auto 30px auto;
+}
+
+.myJumbo{
+	margin-top: 20px;
+	width: 100%;
+	color: #fff;
+	
+	background-image: url(http://vestikavkaza.ru/upload/files2/1920x1080_ballet-shoes-monochrome.jpg);
+}
